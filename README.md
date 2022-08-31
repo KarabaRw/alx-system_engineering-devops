@@ -1,1 +1,1 @@
-The first script in the name of 0-current_working_directory.sh prints the current working directory
+This repository contains all the scripts that I am runnifor the project 0x00 shell basics
